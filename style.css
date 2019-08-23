@@ -123,4 +123,19 @@ p {
 	#friends-family {
 		font-size: 40px;
 	}
+	#friends-family::after,
+	#friends-family::before {
+		max-width: 85px;
+		margin: 5px auto;
+	}
+	#food::after,
+	#food::before {
+		max-width: 120px;
+		margin: 5px auto;
+	}
+	#frank-michelle::after,
+	#frank-michelle::before {
+		max-width: 85px;
+		margin: 5px auto;
+	}
 }
