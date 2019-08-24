@@ -116,7 +116,7 @@ p {
 
 @media screen and (max-width: 520px) {
 	.intro-container {
-		max-height: 320px;
+		max-height: 400px;
 		background-size: cover;
 		justify-content: center;
 	}
